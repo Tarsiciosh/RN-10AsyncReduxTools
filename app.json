@@ -1,0 +1,12 @@
+{
+  "name": "10AsyncReduxTools",
+  "displayName": "10AsyncReduxTools",
+  "expo": {
+    "name": "10AsyncReduxTools",
+    "slug": "10AsyncReduxTools",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
